@@ -1,0 +1,16 @@
+# Top-level deps for re-running the training/evaluation/deployment notebook
+# (notebook/SayiKhushhalGadde_A00074661_MS4.ipynb)
+# Tested on Google Colab, Python 3.10/3.11, NVIDIA T4 GPU.
+
+transformers>=4.38
+torch>=2.0
+datasets>=2.16
+huggingface_hub>=0.20
+accelerate>=0.27
+sentencepiece>=0.1.99
+scikit-learn>=1.3
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.12
+gradio>=4.20
