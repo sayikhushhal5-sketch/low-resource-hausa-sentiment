@@ -1,0 +1,4 @@
+audioop-lts
+transformers
+torch
+sentencepiece
